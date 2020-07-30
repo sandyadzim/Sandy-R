@@ -71,7 +71,7 @@
             </h5>
             <div>
               <a
-                href="https://drive.google.com/file/d/1hFO2OYV9tRRlaOqTph8eM8dWtgu6RBGx/view?usp=sharing"
+                href="https://drive.google.com/file/d/1pX7zdCnX-F26f0Howb-MtZIE1k7ttVaR/view?usp=sharing"
                 target="_blank"
               >
                 <button class="btn-custom color-btn-wa mr-4">
